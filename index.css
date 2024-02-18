@@ -133,34 +133,3 @@ footer>a>div {
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-    /* header>div {
-        display:grid;
-        grid-row: 2;
-        grid-template-rows:auto;
-        height:max-content;
-    }
-
-    header>div>div {
-        display:grid;
-        grid-template-rows:auto;
-        grid-column: 1fr, 1fr;
-        column-gap: 2em;
-    }
-
-    #flexbox>div {
-        justify-content: center;
-        align-items: center;
-    } */
-}
